@@ -39,13 +39,13 @@ export default [
     imgUrl: '/assets/portfolio-v2.png',
     stack: ['React', 'Tailwind', 'Vite'],
     link: './',
-    link2: 'https://github.com/escorpion91',
+    link2: 'https://github.com/escorpion91/portfoliov2',
   },
   {
     title: 'Porfolio v1',
     imgUrl: '/assets/portfolio-v1.png',
     stack: ['React'],
-    link: './',
+    link: 'https://v1medianochedev.netlify.app/',
     link2: 'https://github.com/escorpion91/react-portfolio',
   },
   {
