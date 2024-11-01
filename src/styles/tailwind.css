@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Tailwind scrollbar customization */
+.scrollbar-thin {
+  scrollbar-width: thin;
+}
+.scrollbar-thumb-gray-400 {
+  scrollbar-color: #a0aec0 #edf2f7;
+}
+.scrollbar-thumb-gray-600 {
+  scrollbar-color: #4a5568 #2d3748;
+}
