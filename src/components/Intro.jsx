@@ -1,4 +1,4 @@
-import React from 'react';
+simport React from 'react';
 
 function Intro() {
   return (
@@ -7,12 +7,12 @@ function Intro() {
         Juan Manuel
       </h1>
       <p className="text-base md:text-xl mb-3 font-medium">
-        React, Django and Python Dev
+        Full-stack dev
       </p>
       <p className="text-sm max-w-xl mb-6 font-bold">
-        A passionate Web developer/Python coder. Very eager to build things,
-        whether in web development (React, Django and WordPress mainly) or
-        solving tasks with Python. I’m always opened to learning new things and
+        A passionate Web developer/Python and JavaScript coder. Very eager to build things,
+        whether in web development (Next.js, React, Django and WordPress mainly) or
+        solving tasks with code (Mainly Python and JavaScript). I’m always opened to learning new things and
         take on new challenges. Currently learning ThreeJs and React Three
         Fiber.
       </p>
